@@ -12,9 +12,9 @@ Our system proposal is a modern integrated solution designed to unify the public
   The system will calculate the optimal route from point A to point B by combining available transportation options (bus, tram, trolleybus, underground metro, regional CFR trains), of course the user can choose from the available options its wishes
 - #### Real Time Vehicle Tracking
   The system will be able to monitor every single transportation option via GPS on STS (ro Serviciul de Telecomunicatii Speciale / en Specials Telecommunication Service) map (maps.stscloud.ro). For this project we will simulate the tracking via the timeschedule available on STB website, CFR dataset and data.gov, alongside with simulation for delays.
-- ### Personalization and User accounts
+- #### Personalization and User accounts
   The registered user can save frequent locations such as work, home and so on, but can also add locations with labels and colours to identify them easily.
-- ### Email notifications
+- #### Email notifications
   The platform will integrate notifications such as purchases, planned trips, delays, accidents, manintenance for the app. The user can also activate notifications from the web app to be displayed as push notifications.
 
 ### Techincal Approach & Challanges
