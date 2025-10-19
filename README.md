@@ -10,6 +10,8 @@ Our system proposal is a modern integrated solution designed to unify the public
 ### Core Features
 - #### Integrated Multimodal Route Planning
   The system will calculate the optimal route from point A to point B by combining available transportation options (bus, tram, trolleybus, underground metro, regional CFR trains), of course the user can choose from the available options its wishes
+- #### All tickets and informations in one place
+  Users can buy tickets directly from the app and have all the info's in the app about the tickets, stations, past journeys.
 - #### Real Time Vehicle Tracking
   The system will be able to monitor every single transportation option via GPS on STS (ro Serviciul de Telecomunicatii Speciale / en Specials Telecommunication Service) map (maps.stscloud.ro). For this project we will simulate the tracking via the timeschedule available on STB website, CFR dataset and data.gov, alongside with simulation for delays.
 - #### Personalization and User accounts
